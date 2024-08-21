@@ -1,0 +1,14 @@
+Gestión del Burnout en Deportistas
+
+Introducción
+Este proyecto utiliza técnicas de generación de prompts para ayudar a los deportistas a gestionar el burnout. El notebook incluye ejemplos de prompts, respuestas simuladas, y visualización de datos.
+
+Cómo Ejecutar
+1. Clona el repositorio: `git clone <URL-del-repositorio>`.
+2. Navega al directorio del proyecto.
+3. Abre el notebook con Jupyter: `jupyter notebook`.
+4. Ejecuta todas las celdas para ver el funcionamiento.
+
+Dependencias
+- pandas
+- matplotlib
